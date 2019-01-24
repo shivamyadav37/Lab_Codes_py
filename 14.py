@@ -1,5 +1,5 @@
 ''' Program to find the Compound Interest compounded annually and the total amount when the
-Principal, Rate of Interest and Time are entered by the user.'''
+Principal, Rate of Interest and Time are entered by the user'''
 p = int(input("principal\n"))
 r = float(input("rate\n"))
 n = int(input("periods\n"))
