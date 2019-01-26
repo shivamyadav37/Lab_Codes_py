@@ -5,3 +5,5 @@ played. For example, in a 50 over match, the maximum runs scored are 1653.'''
 over =int(input("Enter the number of overs\n"))
 runs= (over-1)*33 +36
 print(runs)
+
+# I made  this Program flexible so that user can input any number of overs(we have test matches too)
